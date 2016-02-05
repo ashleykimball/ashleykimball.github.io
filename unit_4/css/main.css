@@ -1,17 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,300);
+
 body {
 	background-color: #edebe6;
-	font-family: sans-serif;
 	text-align: center;
 	padding: 50px;
 }
 
 h1, h3 {
 	color: black;
+	font-family: 'Rubik', sans-serif;
+	letter-spacing: .1em;
 }
 
 p {
 	color: black;
 	text-decoration: underline;
+	font-family: 'Rubik', sans-serif;
 
 }
 
