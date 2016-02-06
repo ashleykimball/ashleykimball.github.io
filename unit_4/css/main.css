@@ -1,9 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:400,300);
 
 body {
-	background-color: #edebe6;
 	text-align: center;
 	padding: 100px;
+}
+
+header {
+	background:#FFED74;
+}
+
+div,section {
+	background:#FFE2B8;
+}
+
+footer {
+	background:#FF957E;
 }
 
 h1, h3 {
