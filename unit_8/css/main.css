@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik:400,300);
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    body {
+    	padding: 0;
+    }
+
+
+    #one, #two, #three { 
+    	display: block;
+    	clear: both;
+    	min-width: 100%;
+    	margin: auto;
+    }
+
+	section {
+		width: 90%;
+	} 
+
+	footer {
+		padding: 2%;
+	} 
+
+}
+
+
+body {
+	text-align: center;
+	padding: 1em;
+	background: #edebe6;
+}
+
+header {
+	padding: 6% 0 4%;
+}
+
+section {
+	width: 90%;
+	margin: auto;
+}	
+
+#one, #two, #three {
+    float: left;
+    width: 33%;
+
+}
+
+footer {
+	clear: both;
+}
+
+h1, h3 {
+	color: black;
+	font-family: 'Rubik', sans-serif;
+}
+
+p {
+	color: black;
+	text-decoration: underline;
+	font-family: 'Rubik', sans-serif;
+}
+
+img {
+	padding:2em;
+	width: 70%;
+}
